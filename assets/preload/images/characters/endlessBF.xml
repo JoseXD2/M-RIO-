@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="endlessBF.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_0" x="4" y="4" width="48" height="48"/>
+	<SubTexture name="down_1" x="56" y="4" width="48" height="48"/>
+	<SubTexture name="idle_0" x="108" y="4" width="48" height="48"/>
+	<SubTexture name="idle_1" x="160" y="4" width="48" height="48"/>
+	<SubTexture name="idle_2" x="4" y="56" width="48" height="48"/>
+	<SubTexture name="idle_3" x="56" y="56" width="48" height="48"/>
+	<SubTexture name="idle_4" x="108" y="56" width="48" height="48"/>
+	<SubTexture name="left_0" x="160" y="56" width="48" height="48"/>
+	<SubTexture name="left_1" x="4" y="108" width="48" height="48"/>
+	<SubTexture name="right_0" x="56" y="108" width="48" height="48"/>
+	<SubTexture name="right_1" x="108" y="108" width="48" height="48"/>
+	<SubTexture name="up_0" x="160" y="108" width="48" height="48"/>
+	<SubTexture name="up_1" x="4" y="160" width="48" height="48"/>
+</TextureAtlas>

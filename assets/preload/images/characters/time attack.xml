@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="time attack.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_0" x="4" y="4" width="80" height="64"/>
+	<SubTexture name="down_1" x="88" y="4" width="80" height="64"/>
+	<SubTexture name="idle_0" x="172" y="4" width="80" height="64"/>
+	<SubTexture name="idle_1" x="256" y="4" width="80" height="64"/>
+	<SubTexture name="idle_2" x="340" y="4" width="80" height="64"/>
+	<SubTexture name="idle_3" x="424" y="4" width="80" height="64"/>
+	<SubTexture name="idle_4" x="4" y="72" width="80" height="64"/>
+	<SubTexture name="left_0" x="88" y="72" width="80" height="64"/>
+	<SubTexture name="left_1" x="172" y="72" width="80" height="64"/>
+	<SubTexture name="right_0" x="256" y="72" width="80" height="64"/>
+	<SubTexture name="right_1" x="340" y="72" width="80" height="64"/>
+	<SubTexture name="up_0" x="424" y="72" width="80" height="64"/>
+	<SubTexture name="up_1" x="4" y="140" width="80" height="64"/>
+</TextureAtlas>

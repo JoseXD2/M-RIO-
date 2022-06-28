@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfSMW.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="death_0" x="4" y="4" width="64" height="48"/>
+	<SubTexture name="death_1" x="72" y="4" width="64" height="48"/>
+	<SubTexture name="death_2" x="140" y="4" width="64" height="48"/>
+	<SubTexture name="death_3" x="208" y="4" width="64" height="48"/>
+	<SubTexture name="death_4" x="276" y="4" width="64" height="48"/>
+	<SubTexture name="death_5" x="344" y="4" width="64" height="48"/>
+	<SubTexture name="death_6" x="412" y="4" width="64" height="48"/>
+	<SubTexture name="death_7" x="4" y="56" width="64" height="48"/>
+	<SubTexture name="down_0" x="72" y="56" width="64" height="48"/>
+	<SubTexture name="down_1" x="140" y="56" width="64" height="48"/>
+	<SubTexture name="downmiss_0" x="208" y="56" width="64" height="48"/>
+	<SubTexture name="downmiss_1" x="276" y="56" width="64" height="48"/>
+	<SubTexture name="idle_0" x="344" y="56" width="64" height="48"/>
+	<SubTexture name="idle_1" x="412" y="56" width="64" height="48"/>
+	<SubTexture name="idle_2" x="4" y="108" width="64" height="48"/>
+	<SubTexture name="idle_3" x="72" y="108" width="64" height="48"/>
+	<SubTexture name="idle_4" x="140" y="108" width="64" height="48"/>
+	<SubTexture name="left_0" x="208" y="108" width="64" height="48"/>
+	<SubTexture name="left_1" x="276" y="108" width="64" height="48"/>
+	<SubTexture name="leftmiss_0" x="344" y="108" width="64" height="48"/>
+	<SubTexture name="leftmiss_1" x="412" y="108" width="64" height="48"/>
+	<SubTexture name="right_0" x="4" y="160" width="64" height="48"/>
+	<SubTexture name="right_1" x="72" y="160" width="64" height="48"/>
+	<SubTexture name="rightmiss_0" x="140" y="160" width="64" height="48"/>
+	<SubTexture name="rightmiss_1" x="208" y="160" width="64" height="48"/>
+	<SubTexture name="up_0" x="276" y="160" width="64" height="48"/>
+	<SubTexture name="up_1" x="344" y="160" width="64" height="48"/>
+	<SubTexture name="upmiss_0" x="412" y="160" width="64" height="48"/>
+	<SubTexture name="upmiss_1" x="4" y="212" width="64" height="48"/>
+</TextureAtlas>

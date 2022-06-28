@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ps135.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down_0" x="4" y="4" width="64" height="80"/>
+	<SubTexture name="down_1" x="72" y="4" width="64" height="80"/>
+	<SubTexture name="idle_0" x="140" y="4" width="64" height="80"/>
+	<SubTexture name="idle_1" x="208" y="4" width="64" height="80"/>
+	<SubTexture name="idle_2" x="276" y="4" width="64" height="80"/>
+	<SubTexture name="idle_3" x="344" y="4" width="64" height="80"/>
+	<SubTexture name="idle_4" x="412" y="4" width="64" height="80"/>
+	<SubTexture name="left_0" x="4" y="88" width="64" height="80"/>
+	<SubTexture name="left_1" x="72" y="88" width="64" height="80"/>
+	<SubTexture name="right_0" x="140" y="88" width="64" height="80"/>
+	<SubTexture name="right_1" x="208" y="88" width="64" height="80"/>
+	<SubTexture name="up_0" x="276" y="88" width="64" height="80"/>
+	<SubTexture name="up_1" x="344" y="88" width="64" height="80"/>
+</TextureAtlas>

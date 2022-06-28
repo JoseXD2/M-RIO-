@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="power-glitch.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_0" x="33" y="33" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_1" x="943" y="33" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_10" x="1853" y="33" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_11" x="2763" y="33" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_12" x="3673" y="33" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_13" x="4583" y="33" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_14" x="5493" y="33" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_15" x="6403" y="33" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_16" x="33" y="431" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_17" x="943" y="431" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_18" x="1853" y="431" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_19" x="2763" y="431" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_2" x="3673" y="431" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_20" x="4583" y="431" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_21" x="5493" y="431" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_22" x="6403" y="431" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_23" x="33" y="829" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_24" x="943" y="829" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_25" x="1853" y="829" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_26" x="2763" y="829" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_27" x="3673" y="829" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_28" x="4583" y="829" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_29" x="5493" y="829" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_3" x="6403" y="829" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_30" x="33" y="1227" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_31" x="943" y="1227" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_32" x="1853" y="1227" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_33" x="2763" y="1227" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_34" x="3673" y="1227" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_35" x="4583" y="1227" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_36" x="5493" y="1227" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_37" x="6403" y="1227" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_38" x="33" y="1625" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_39" x="943" y="1625" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_4" x="1853" y="1625" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_40" x="2763" y="1625" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_41" x="3673" y="1625" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_42" x="4583" y="1625" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_43" x="5493" y="1625" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_44" x="6403" y="1625" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_45" x="33" y="2023" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_5" x="943" y="2023" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_6" x="1853" y="2023" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_7" x="2763" y="2023" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_8" x="3673" y="2023" width="877" height="365"/>
+	<SubTexture name="SMW-Crash-Compilation-Powerup-In_9" x="4583" y="2023" width="877" height="365"/>
+</TextureAtlas>
